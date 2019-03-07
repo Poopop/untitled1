@@ -1,5 +1,5 @@
 
-package thread;
+package Na00;
 
         import java.util.concurrent.atomic.AtomicInteger;
 
@@ -14,4 +14,4 @@ public class Sum {
     public int get() {
         return i.get();
     }
-}o
+}
